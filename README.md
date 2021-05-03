@@ -1,0 +1,1 @@
+Video üzerinde maskeleme işlemleri
