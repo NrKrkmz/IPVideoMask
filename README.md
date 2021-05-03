@@ -1,1 +1,1 @@
-Video üzerinde maskeleme işlemleri
+OpenCV kütüphanesi ile video üzerinde maskeleme işlemleri
